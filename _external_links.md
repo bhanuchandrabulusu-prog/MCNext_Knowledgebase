@@ -1,48 +1,577 @@
-# External Links — Deep Dives
+# External Links
 
 Not crawled.
 
+## admin.salesforce.com
+
+- [Salesforce Admins](https://admin.salesforce.com/)
+
+## agentexchange.salesforce.com
+
+- [AgentExchange](https://agentexchange.salesforce.com/)
+- [Partner Agents](https://agentexchange.salesforce.com/explore/agentforce)
+
+## appexchange.salesforce.com
+
+- [Partner Apps](https://appexchange.salesforce.com/explore/business-needs)
+- [Implementation Partners](https://appexchange.salesforce.com/consulting)
+- [?](https://appexchange.salesforce.com/)
+
+## architect.salesforce.com
+
+- [Architecture Center](https://architect.salesforce.com/)
+
+## billing.salesforce.com
+
+- [Billing Portal](https://billing.salesforce.com/login)
+
+## central.sonatype.com
+
+- [https://central.sonatype.com/artifact/com.salesforce.datacloud/jdbc](https://central.sonatype.com/artifact/com.salesforce.datacloud/jdbc)
+
+## cs.salesforce.com
+
+- [Customer Success Events](https://cs.salesforce.com/)
+
+## dbeaver.io
+
+- [https://dbeaver.io/download](https://dbeaver.io/download)
+
+## devcenter.heroku.com
+
+- [?](https://devcenter.heroku.com/)
+
+## developer.mulesoft.com
+
+- [MuleSoft](https://developer.mulesoft.com/)
+
 ## developer.salesforce.com
 
-- [Get helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-objects-references/mcn-handlebars-reference-objects-get.html)
-- [Fallback](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-utility-references/mcn-handlebars-reference-utility-fallback.html)
-- [If helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-comparison-references/mcn-handlebars-reference-comparison-if.html)
-- [Each helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-objects-references/mcn-handlebars-reference-objects-each.html)
-- [Map helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-objects-references/mcn-handlebars-reference-objects-map.html)
-- [flatten helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-objects-references/mcn-handlebars-reference-objects-flatten.html)
-- [Sort helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-utility-references/mcn-handlebars-reference-utility-sort.html)
-- [With helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-utility-references/mcn-handlebars-reference-utility-with.html)
-- [Format helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-utility-references/mcn-handlebars-reference-utility-format.html)
-- [Equals](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-comparison-references/mcn-handlebars-reference-comparison-equals.html)
-- [Length](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-utility-references/mcn-handlebars-reference-utility-length.html)
-- [Modulo helper function](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-math-references/mcn-handlebars-reference-math-modulo.html)
-- [helper functions](https://developer.salesforce.com/docs/marketing/handlebars-for-marketing-cloud-next/references/mcn-handlebars-references/mcn-handlebars-reference-index.html)
+- [Metadata API](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_metadata_api.htm)
+- [Data 360 Quick Start](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/dc-quick-start.html)
+- [Data Cloud Developer Guide](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/get-started.html)
+- [Developer Events](https://developer.salesforce.com/events)
+- [Developer Blog](https://developer.salesforce.com/blogs)
+- [Developer Documentation](https://developer.salesforce.com/docs)
+- [United States (English)](https://developer.salesforce.com/)
+- [日本 (日本語)](https://developer.salesforce.com/jp)
+- [?](https://developer.salesforce.com/docs/apis)
+- [?](https://developer.salesforce.com/developer-centers/agentforce)
+- [?](https://developer.salesforce.com/developer-centers/agentforce-vibes)
+- [?](https://developer.salesforce.com/developer-centers/commerce-cloud)
+- [?](https://developer.salesforce.com/developer-centers/data-cloud)
+- [?](https://developer.salesforce.com/developer-centers/marketing-cloud)
+- [?](https://developer.salesforce.com/developer-centers/sales-cloud)
+- [?](https://developer.salesforce.com/developer-centers/service-cloud)
+- [?](https://developer.salesforce.com/developer-centers)
+- [?](https://developer.salesforce.com/developer-centers/apex)
+- [?](https://developer.salesforce.com/developer-centers/lightning-web-components)
+- [?](https://developer.salesforce.com/developer-centers/flow)
+- [?](https://developer.salesforce.com/developer-centers/developer-experience)
+- [?](https://developer.salesforce.com/developer-centers/integration-apis)
+- [?](https://developer.salesforce.com/developer-centers/devops)
+- [?](https://developer.salesforce.com/docs/platform/lightning-types/guide)
+- [?](https://developer.salesforce.com/developer-centers/mobile)
+- [?](https://developer.salesforce.com/developer-centers/lwc-for-mobile)
+- [?](https://developer.salesforce.com/developer-centers/service-sdk)
+- [?](https://developer.salesforce.com/developer-centers/appexchange)
+- [?](https://developer.salesforce.com/developer-centers/security)
+- [?](https://developer.salesforce.com/developer-centers/identity)
+- [?](https://developer.salesforce.com/developer-centers/financial-services-cloud)
+- [?](https://developer.salesforce.com/developer-centers/health-cloud)
+- [?](https://developer.salesforce.com/developer-centers/nonprofit-cloud)
+- [?](https://developer.salesforce.com/developer-centers/net-zero-cloud)
+- [?](https://developer.salesforce.com/developer-centers/consumer-goods-cloud)
+- [?](https://developer.salesforce.com/developer-centers/education-cloud)
+- [?](https://developer.salesforce.com/developer-centers/manufacturing-cloud)
+- [?](https://developer.salesforce.com/sample-apps)
+- [?](https://developer.salesforce.com/docs/component-library)
+- [?](https://developer.salesforce.com/docs/metadata-coverage)
+- [?](https://developer.salesforce.com/tools/vscode)
+- [?](https://developer.salesforce.com/tools/salesforcecli)
+- [?](https://developer.salesforce.com/tools/data-loader)
+- [?](https://developer.salesforce.com/tools/tableau/embedding-playground)
+- [?](https://developer.salesforce.com/free-trials)
+- [Einstein](https://developer.salesforce.com/developer-centers/einstein-1-studio)
+- [Data Cloud Connect REST API](https://developer.salesforce.com/docs/platform/connectapi/references/spec)
+- [Custom App Development](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/custom-app-dev.html)
+- [Data Cloud Python Connector](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_python_connector.htm)
+- [Salesforce Developers Blog: Boost Data 360 Integrations with the New Query Connect API](https://developer.salesforce.com/blogs/2025/08/boost-data-cloud-integrations-with-the-new-query-connect-api)
+- [sfsqlquery Namespace](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_namespace_sfsqlquery.htm)
+- [Getting Started with Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_get_started.htm)
+- [ConnectApi.CdpQuery Methods](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- [Model Data in Data 360](https://developer.salesforce.com/docs/data/data-cloud-dmo-mapping/guide/c360dm-model-data.html)
+- [SalesOrder DMO](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360dm_sales_order_dmo.htm)
+- [Data 360 in Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/DataCloudInApex.htm)
+- [Mock SOQL Tests for Data 360 Data Model Objects](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/MockSOQLTestsForDMOs.htm)
+- [Salesforce Object Query Language (SOQL)](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
+- [SOQL and SOSL Reference: SOQL Object Limits and Limitations](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_limits.htm)
+- [Apex Developer Guide: SOQL and SOSL Queries](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL.htm)
+- [Salesforce Extensions for Visual Studio Code: SOQL Builder](https://developer.salesforce.com/docs/platform/sfvscode-extensions/guide/soql-builder.html)
+
+## elements.heroku.com
+
+- [?](https://elements.heroku.com/)
+
+## exchange.tableau.com
+
+- [?](https://exchange.tableau.com/)
+
+## github.com
+
+- [GitHub examples](https://github.com/forcedotcom)
+- [Data 360 JDBC](https://github.com/forcedotcom/datacloud-jdbc)
 
 ## help.salesforce.com
 
-- [here for details](https://help.salesforce.com/s/articleView?id=data.c360_a_contact_points.htm&type=5)
-- [Individual or Engagements DMO](https://help.salesforce.com/s/articleView?id=release-notes.rn_automate_flow_marketing_cloud_segments_individuals_engagement_records.htm&release=260&type=5)
-- [Individual Related](https://help.salesforce.com/s/articleView?id=platform.automate_flow_ref_event_individual_related_record_event.htm&type=5)
-- [List of such elements](https://help.salesforce.com/s/articleView?id=platform.flow_ref_elements_mktg.htm&type=5)
-- [Salesforce’s guidelines make it clear](https://help.salesforce.com/s/articleView?id=sales.sales_agent_sdr_ethical_guidelines.htm&type=5)
-- [every email, follow-up, or reply uses conversation units](https://help.salesforce.com/s/articleView?id=sales.sales_agent_sdr_considerations.htm&type=5)
-- [Model Card](https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_model_card_ees.htm&type=5)
-- [source](https://help.salesforce.com/s/articleView?id=ai.agent_setup_explore_types.htm&type=5)
-- [reference](https://help.salesforce.com/s/articleView?id=ai.copilot_actions_ref_mc_create_section_with_content.htm&type=5)
-- [Salesforce documentation related to this feature](https://help.salesforce.com/s/articleView?id=mktg.mcae_when_to_use_copy_to_cms.htm&type=5)
-- [Files that can be copied](https://help.salesforce.com/s/articleView?id=mktg.mcae_supported_cms_file_types.htm&type=5)
-- [source](https://help.salesforce.com/s/articleView?id=004576431&type=1)
-- [related known issue](https://help.salesforce.com/s/issue?id=a02Ka00000gZBzN)
+- [Data Explorer](https://help.salesforce.com/s/articleView)
+- [?](https://help.salesforce.com/)
+- [Ask Agentforce on Salesforce Help](https://help.salesforce.com/s/)
 
-## medium.com
+## ideas.salesforce.com
 
-- [See here for more details](https://medium.com/@marketingcloudtips/marketing-cloud-next-segment-member-verification-agent-18f64f4f22ba)
+- [IdeaExchange](https://ideas.salesforce.com/s/)
 
-## resources.docs.salesforce.com
+## investor.salesforce.com
 
-- [in the Implementation Guide](https://resources.docs.salesforce.com/rel1/doc/en-us/static/pdf/mktg_implementation_guide.pdf)
+- [Investor Relations](https://investor.salesforce.com/overview/default.aspx)
+- [Governance](https://investor.salesforce.com/corporate-governance/default.aspx)
+
+## issues.salesforce.com
+
+- [Known Issues](https://issues.salesforce.com/)
+
+## lightningdesignsystem.com
+
+- [?](https://lightningdesignsystem.com/)
+
+## login.salesforce.com
+
+- [Salesforce Login](https://login.salesforce.com/)
+
+## mc.exacttarget.com
+
+- [Marketing Cloud Login](https://mc.exacttarget.com/)
+
+## mulesoft.com
+
+- [?](https://mulesoft.com/exchange)
+
+## netzero.salesforce.com
+
+- [Net Zero Marketplace](https://netzero.salesforce.com/s/)
+
+## onetrust.com
+
+- [?](https://onetrust.com/poweredbyonetrust)
+
+## org62.my.salesforce.com
+
+- [Power BI Desktop Connector](https://org62.my.salesforce.com/sfc/p/000000000062/a/ed000001y3yX/HEy0sQdVoUZFvQZ_AXPg30hDoCvQeZTXInM7erQ1GlY)
+
+## partners.salesforce.com
+
+- [Partner Community](https://partners.salesforce.com/)
+
+## reg.salesforce.com
+
+- [Sessions](https://reg.salesforce.com/flow/plus/df26/sessioncatalog/page/catalog)
+
+## salesforce.quip.com
+
+- [Quip](https://salesforce.quip.com/dev)
+
+## salesforceventures.com
+
+- [Salesforce Ventures](https://salesforceventures.com/)
+
+## slack.com
+
+- [Slack Solutions](https://slack.com/marketplace)
+- [Slack Stories](https://slack.com/customer-stories)
+- [Slack](https://slack.com/)
+
+## trailblazer.me
+
+- [?](https://trailblazer.me/)
+
+## trailblazercommunitygroups.com
+
+- [Local User Groups](https://trailblazercommunitygroups.com/)
 
 ## trailhead.salesforce.com
 
-- [See this Trailhead module](https://trailhead.salesforce.com/content/learn/modules/ai-in-marketing-cloud-next/create-and-customize-a-marketing-campaign-with-agentforce)
+- [Community Led](https://trailhead.salesforce.com/community/conferences/)
+- [Explore Trailhead](https://trailhead.salesforce.com/)
+- [Trails](https://trailhead.salesforce.com/trails/)
+- [Career Paths](https://trailhead.salesforce.com/career-path/)
+- [Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community/feed)
+- [Slack Community](https://trailhead.salesforce.com/trailblazer-community/neighborhoods/slack)
+- [MuleSoft Community](https://trailhead.salesforce.com/trailblazer-community/neighborhoods/mulesoft)
+- [Tableau Community](https://trailhead.salesforce.com/trailblazer-community/neighborhoods/tableau)
+- [?](https://trailhead.salesforce.com/en/career-path/developer/)
+- [?](https://trailhead.salesforce.com/credentials/developeroverview)
+- [?](https://trailhead.salesforce.com/trailblazer-community/groups/0F93A000000DJbJSAW)
+- [Salesforce Developer Community](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kOWvSAM)
+- [Trailhead modules](https://trailhead.salesforce.com/content/learn/trails/data-cloud)
+- [SOQL for Admins](https://trailhead.salesforce.com/content/learn/modules/soql-for-admins)
+
+## trailheadacademy.salesforce.com
+
+- [Expert-led Learning](https://trailheadacademy.salesforce.com/)
+- [Salesforce Certification](https://trailheadacademy.salesforce.com/certification-overview)
+
+## trust.salesforce.com
+
+- [Trust](https://trust.salesforce.com/)
+- [Trust](https://trust.salesforce.com/en/)
+
+## twitter.com
+
+- [?](https://twitter.com/salesforcedevs)
+
+## www.heroku.com
+
+- [Heroku Stories](https://www.heroku.com/customers)
+- [Heroku](https://www.heroku.com/)
+
+## www.informatica.com
+
+- [Informatica](https://www.informatica.com/)
+
+## www.informaticaworld.com
+
+- [?](https://www.informaticaworld.com/)
+
+## www.instagram.com
+
+- [?](https://www.instagram.com/salesforcedevs)
+
+## www.lightningdesignsystem.com
+
+- [Lightning Design System](https://www.lightningdesignsystem.com/)
+
+## www.linkedin.com
+
+- [?](https://www.linkedin.com/showcase/salesforce-developers)
+
+## www.mulesoft.com
+
+- [MuleSoft Stories](https://www.mulesoft.com/case-studies)
+- [MuleSoft](https://www.mulesoft.com/)
+
+## www.salesforce.com
+
+- [Privacy Statement](https://www.salesforce.com/company/privacy/full_privacy/)
+- [?](https://www.salesforce.com/)
+- [See all industries](https://www.salesforce.com/industries/)
+- [?](https://www.salesforce.com/products/)
+- [Explore Agentforce](https://www.salesforce.com/agentforce/)
+- [How Agentforce works](https://www.salesforce.com/agentforce/how-it-works/)
+- [Why Agentforce?](https://www.salesforce.com/agentforce/why/)
+- [Agentforce Builder](https://www.salesforce.com/agentforce/agent-builder/)
+- [Agentforce Voice](https://www.salesforce.com/agentforce/voice/)
+- [Agentforce Dev Tools](https://www.salesforce.com/agentforce/dev-tools/)
+- [AgentExchange](https://www.salesforce.com/agentforce/agentexchange/)
+- [Agentforce Operations](https://www.salesforce.com/agentforce/operations/)
+- [Customer Stories](https://www.salesforce.com/agentforce/customer-stories/)
+- [Use Cases](https://www.salesforce.com/agentforce/use-cases/)
+- [Agentforce Pricing](https://www.salesforce.com/agentforce/pricing/)
+- [See all sales solutions](https://www.salesforce.com/sales/)
+- [Sales Force Automation](https://www.salesforce.com/sales/cloud/)
+- [Sales AI](https://www.salesforce.com/sales/artificial-intelligence/)
+- [Sales Agents](https://www.salesforce.com/sales/ai-sales-agent/)
+- [Sales Performance Management](https://www.salesforce.com/sales/performance-management/)
+- [Partner Cloud](https://www.salesforce.com/sales/partner-cloud/)
+- [Revenue Lifecycle Management](https://www.salesforce.com/sales/revenue-lifecycle-management/)
+- [CPQ](https://www.salesforce.com/sales/cpq/)
+- [Sales Pricing](https://www.salesforce.com/sales/pricing/)
+- [See all service solutions](https://www.salesforce.com/service/)
+- [Customer Service Management](https://www.salesforce.com/service/cloud/)
+- [Field Service and Operations](https://www.salesforce.com/service/field-service-management/)
+- [Contact Center](https://www.salesforce.com/service/contact-center/)
+- [IT Service](https://www.salesforce.com/service/it-service-management/)
+- [Service Portal](https://www.salesforce.com/service/customer-self-service/)
+- [Service Analytics](https://www.salesforce.com/service/customer-service-operations/)
+- [Customer Service AI](https://www.salesforce.com/service/ai/)
+- [HR Service](https://www.salesforce.com/service/hr-service-management/)
+- [Service Pricing](https://www.salesforce.com/service/pricing/)
+- [See all marketing solutions](https://www.salesforce.com/marketing/)
+- [Marketing Cloud Next](https://www.salesforce.com/marketing/agentic-marketing/)
+- [B2C Marketing Platform](https://www.salesforce.com/marketing/engagement/)
+- [B2B Marketing Platform](https://www.salesforce.com/marketing/b2b-automation/)
+- [Unified Customer Data (CDP)](https://www.salesforce.com/marketing/data/)
+- [Conversation Experiences](https://www.salesforce.com/marketing/conversational-marketing/)
+- [Personalization](https://www.salesforce.com/marketing/personalization/)
+- [Customer Loyalty](https://www.salesforce.com/marketing/loyalty-management/)
+- [Marketing Analytics](https://www.salesforce.com/marketing/analytics/)
+- [Marketing for Small Business](https://www.salesforce.com/small-business/marketing/)
+- [Marketing Pricing](https://www.salesforce.com/marketing/pricing/)
+- [See all commerce solutions](https://www.salesforce.com/commerce/)
+- [B2C Commerce](https://www.salesforce.com/commerce/b2c-ecommerce/)
+- [B2B Commerce](https://www.salesforce.com/commerce/b2b-ecommerce/)
+- [Order Management](https://www.salesforce.com/commerce/order-management/)
+- [Commerce AI](https://www.salesforce.com/commerce/ai/)
+- [Payments](https://www.salesforce.com/commerce/online-payment-solution/)
+- [Commerce Innovations](https://www.salesforce.com/commerce/innovations/)
+- [Point of Sale](https://www.salesforce.com/commerce/point-of-sale/)
+- [Commerce Pricing](https://www.salesforce.com/commerce/pricing/)
+- [Explore analytics solutions](https://www.salesforce.com/analytics/)
+- [Tableau Next](https://www.salesforce.com/analytics/tableau-next/)
+- [Tableau Semantics](https://www.salesforce.com/analytics/tableau-semantics/)
+- [Tableau](https://www.salesforce.com/analytics/tableau/)
+- [CRM Analytics](https://www.salesforce.com/analytics/crm/)
+- [Data Culture](https://www.salesforce.com/analytics/data-culture/)
+- [Analytics Pricing](https://www.salesforce.com/analytics/pricing/)
+- [Learn about Slack and Salesforce](https://www.salesforce.com/slack/)
+- [AI-Powered Productivity](https://www.salesforce.com/slack/conversational-work-os/)
+- [Slackbot](https://www.salesforce.com/slack/slackbot/)
+- [Slack Platform](https://www.salesforce.com/slack/work-orchestration/)
+- [Salesforce in Slack](https://www.salesforce.com/slack/crm/)
+- [Agentforce in Slack](https://www.salesforce.com/slack/agentforce/)
+- [Salesforce channels](https://www.salesforce.com/slack/salesforce-channels/)
+- [Pricing](https://www.salesforce.com/slack/pricing/)
+- [?](https://www.salesforce.com/crm/)
+- [Explore small business solutions](https://www.salesforce.com/small-business/)
+- [Free Suite](https://www.salesforce.com/crm/free-crm/)
+- [Starter Suite](https://www.salesforce.com/small-business/starter/)
+- [Pro Suite](https://www.salesforce.com/small-business/pro-suite/)
+- [Launchpad for Startups](https://www.salesforce.com/launchpad/)
+- [Sales](https://www.salesforce.com/small-business/sales/)
+- [Service](https://www.salesforce.com/small-business/service/)
+- [Commerce](https://www.salesforce.com/small-business/commerce/)
+- [Productivity with Slack](https://www.salesforce.com/small-business/collaboration/)
+- [Small Business Pricing](https://www.salesforce.com/small-business/pricing/)
+- [Explore Data 360](https://www.salesforce.com/data/)
+- [How Data 360 Works](https://www.salesforce.com/data/how-it-works/)
+- [How Connectivity Works](https://www.salesforce.com/data/connectivity/)
+- [Data Security & Privacy](https://www.salesforce.com/platform/cloud-data-security/)
+- [Connectors Directory](https://www.salesforce.com/data/connectivity/data-cloud-connectors/)
+- [See all platform capabilities](https://www.salesforce.com/platform/)
+- [Artificial Intelligence](https://www.salesforce.com/artificial-intelligence/)
+- [Agentforce & AI App Development](https://www.salesforce.com/platform/enterprise-app-development/)
+- [Informatica](https://www.salesforce.com/informatica/)
+- [MuleSoft](https://www.salesforce.com/mulesoft/)
+- [Flow Automation](https://www.salesforce.com/mulesoft/automation/)
+- [Heroku](https://www.salesforce.com/heroku/)
+- [See all Net Zero solutions](https://www.salesforce.com/net-zero/)
+- [Agentforce for Net Zero Cloud](https://www.salesforce.com/net-zero/artificial-intelligence/)
+- [Net Zero Cloud](https://www.salesforce.com/net-zero/cloud/)
+- [Net Zero Pricing](https://www.salesforce.com/net-zero/pricing/)
+- [See all services](https://www.salesforce.com/services/)
+- [Success Plans](https://www.salesforce.com/services/success-plans/)
+- [Professional Services](https://www.salesforce.com/services/professional-services/)
+- [Plans & Services Pricing](https://www.salesforce.com/services/pricing/)
+- [Customer Success Awards](https://www.salesforce.com/services/customer-success-awards/)
+- [About our partners](https://www.salesforce.com/partners/)
+- [Partner Program](https://www.salesforce.com/partners/become-a-partner/)
+- [See all product pricing](https://www.salesforce.com/pricing/)
+- [Flex Credit Calculator](https://www.salesforce.com/pricing/calculator/)
+- [Explore automotive solutions](https://www.salesforce.com/automotive/)
+- [OEM](https://www.salesforce.com/automotive/oem-software/)
+- [Dealer/Retailers](https://www.salesforce.com/automotive/car-dealership-software/)
+- [Captive](https://www.salesforce.com/automotive/finance-software/)
+- [Software-Defined Vehicle (SDV)](https://www.salesforce.com/automotive/connected-car-software/)
+- [Automotive Cloud](https://www.salesforce.com/automotive/cloud/)
+- [Automotive Pricing](https://www.salesforce.com/automotive/pricing/)
+- [Explore communications solutions](https://www.salesforce.com/communications/)
+- [Unify the Telecom Customer Journey](https://www.salesforce.com/communications/marketing-software/)
+- [Accelerate Communications Sales](https://www.salesforce.com/communications/sales-software/)
+- [Simplify Wholesale Transactions](https://www.salesforce.com/communications/wholesale-software/)
+- [Light Up Fiber Experiences](https://www.salesforce.com/communications/fiber-bss/)
+- [Fulfill the Perfect Order](https://www.salesforce.com/communications/order-management-system/)
+- [Optimize Telecom Customer Service](https://www.salesforce.com/communications/customer-service-software/)
+- [Communications Cloud](https://www.salesforce.com/communications/cloud/)
+- [Communications Cloud Pricing](https://www.salesforce.com/communications/pricing/)
+- [Explore engineering, construction, and real estate solutions](https://www.salesforce.com/engineering-construction-real-estate/)
+- [Real Estate](https://www.salesforce.com/engineering-construction-real-estate/real-estate-software/)
+- [Engineering & Construction](https://www.salesforce.com/engineering-construction-real-estate/construction-software/)
+- [Residential & Commercial Services](https://www.salesforce.com/engineering-construction-real-estate/residential-commercial-services-software/)
+- [Explore consumer goods solutions](https://www.salesforce.com/consumer-goods/)
+- [Fast-Moving Consumer Goods](https://www.salesforce.com/consumer-goods/consumer-packaged-goods-software/)
+- [Home Durables](https://www.salesforce.com/consumer-goods/consumer-durables-software/)
+- [Distributors](https://www.salesforce.com/consumer-goods/software-for-distributors/)
+- [Apparel, Footwear, and Accessories](https://www.salesforce.com/consumer-goods/apparel-footwear-accessories-software/)
+- [Beauty](https://www.salesforce.com/consumer-goods/beauty-software/)
+- [Consumer Goods Cloud](https://www.salesforce.com/consumer-goods/cloud/)
+- [Consumer Goods Cloud Pricing](https://www.salesforce.com/consumer-goods/pricing/)
+- [Explore education solutions](https://www.salesforce.com/education/)
+- [Recruitment & Admissions](https://www.salesforce.com/education/recruitment-admissions-software/)
+- [Academic Operations](https://www.salesforce.com/education/academic-operations-platform/)
+- [Student Success](https://www.salesforce.com/education/student-success-software/)
+- [Advancement & Alumni Relations](https://www.salesforce.com/education/advancement-software/)
+- [Communications, Marketing, and Engagement](https://www.salesforce.com/education/marketing-software/)
+- [Lifelong Learning](https://www.salesforce.com/education/lifelong-learning-software/)
+- [K-12](https://www.salesforce.com/education/k-12-software/)
+- [Education Cloud](https://www.salesforce.com/education/cloud/)
+- [Education Cloud Pricing](https://www.salesforce.com/education/pricing/)
+- [Explore energy & utilities solutions](https://www.salesforce.com/energy-utilities/)
+- [Power & Utilities](https://www.salesforce.com/energy-utilities/power-utilities-software/)
+- [Oil & Gas](https://www.salesforce.com/energy-utilities/oil-gas-industry-software/)
+- [Energy & Utilities Cloud](https://www.salesforce.com/energy-utilities/cloud/)
+- [Energy & Utilities Cloud Pricing](https://www.salesforce.com/energy-utilities/cloud/pricing/)
+- [Explore financial services solutions](https://www.salesforce.com/financial-services/)
+- [Agentforce for Financial Services](https://www.salesforce.com/financial-services/artificial-intelligence/)
+- [Financial Services Cloud](https://www.salesforce.com/financial-services/cloud/)
+- [Financial Services Cloud Pricing](https://www.salesforce.com/financial-services/pricing/)
+- [Explore healthcare solutions](https://www.salesforce.com/healthcare/)
+- [Provider](https://www.salesforce.com/healthcare/providers/)
+- [Payer](https://www.salesforce.com/healthcare/payer-administration/)
+- [Public Sector Health](https://www.salesforce.com/healthcare/public-health/)
+- [Health Cloud](https://www.salesforce.com/healthcare/cloud/)
+- [Health Cloud Pricing](https://www.salesforce.com/healthcare/cloud/pricing/)
+- [Explore life sciences solutions](https://www.salesforce.com/life-sciences/)
+- [Pharma](https://www.salesforce.com/life-sciences/pharma/)
+- [MedTech](https://www.salesforce.com/life-sciences/medtech/)
+- [Life Sciences Cloud](https://www.salesforce.com/life-sciences/cloud/)
+- [Life Sciences Cloud Pricing](https://www.salesforce.com/life-sciences/cloud/pricing/)
+- [Explore manufacturing solutions](https://www.salesforce.com/manufacturing/)
+- [Modernize Commercial Operations](https://www.salesforce.com/manufacturing/operations-management-software/)
+- [Transform the Service Experience](https://www.salesforce.com/manufacturing/customer-service-software/)
+- [Simplify Channel Engagement](https://www.salesforce.com/manufacturing/partner-channel-engagement-software/)
+- [Manufacturing Cloud](https://www.salesforce.com/manufacturing/cloud/)
+- [Manufacturing Cloud Pricing](https://www.salesforce.com/manufacturing/cloud/pricing/)
+- [Explore media solutions](https://www.salesforce.com/media/)
+- [Accelerate Advertising Sales](https://www.salesforce.com/media/advertising-sales-management-software/)
+- [Automate Media and Entertainment Processes](https://www.salesforce.com/media/workflow-automation-management/)
+- [Grow Subscriber Relationships](https://www.salesforce.com/media/subscription-lifecycle-management-software/)
+- [Maximize Audience Engagement](https://www.salesforce.com/media/fan-audience-engagement-platform/)
+- [Streamline Production and Operations](https://www.salesforce.com/media/automated-production-broadcast-software/)
+- [Media Cloud](https://www.salesforce.com/media/cloud/)
+- [Media Cloud Pricing](https://www.salesforce.com/media/cloud/pricing/)
+- [Explore nonprofit solutions](https://www.salesforce.com/nonprofit/)
+- [Fundraising](https://www.salesforce.com/nonprofit/fundraising-software/)
+- [Marketing and Engagement](https://www.salesforce.com/nonprofit/marketing-software/)
+- [Program and Outcome Management](https://www.salesforce.com/nonprofit/program-management-software/)
+- [IT Operations for Nonprofit](https://www.salesforce.com/nonprofit/data-management-systems/)
+- [Grantmaking](https://www.salesforce.com/nonprofit/grantmaking-software/)
+- [Volunteer Management](https://www.salesforce.com/nonprofit/volunteer-management/)
+- [Nonprofit Cloud](https://www.salesforce.com/nonprofit/cloud/)
+- [Nonprofit Cloud Pricing](https://www.salesforce.com/nonprofit/pricing/)
+- [Explore professional services solutions](https://www.salesforce.com/professional-services/)
+- [Accounting, Tax, and Audit](https://www.salesforce.com/professional-services/accounting-crm/)
+- [Consulting](https://www.salesforce.com/professional-services/consulting-crm/)
+- [Staffing and Recruiting](https://www.salesforce.com/professional-services/recruiting-crm/)
+- [Legal](https://www.salesforce.com/professional-services/legal/)
+- [Explore public sector solutions](https://www.salesforce.com/government/)
+- [Federal/National](https://www.salesforce.com/government/federal-it-modernization/)
+- [State and Local](https://www.salesforce.com/government/state-local-government-software/)
+- [Defense and National Security](https://www.salesforce.com/government/defense-it-technology-solutions/)
+- [Government Cloud](https://www.salesforce.com/government/cloud/)
+- [Public Sector Solutions](https://www.salesforce.com/government/solutions/)
+- [Government Cloud Pricing](https://www.salesforce.com/government/cloud/pricing/)
+- [Public Sector Apps Pricing](https://www.salesforce.com/government/solutions/pricing/)
+- [Explore retail solutions](https://www.salesforce.com/retail/)
+- [Fashion](https://www.salesforce.com/retail/fashion-software/)
+- [Restaurants](https://www.salesforce.com/retail/restaurant-software/)
+- [Grocery, Drug, and Convenience Stores](https://www.salesforce.com/retail/grocery-convenience-store-software/)
+- [Mass Merchants and Department Stores](https://www.salesforce.com/retail/department-store-software/)
+- [Explore technology solutions](https://www.salesforce.com/high-tech/)
+- [Unlock Partner Growth](https://www.salesforce.com/high-tech/prm-software/)
+- [Drive Recurring Revenue](https://www.salesforce.com/high-tech/revenue-software/)
+- [Explore travel, transportation, and hospitality experiences](https://www.salesforce.com/travel-hospitality-transportation/)
+- [Travel](https://www.salesforce.com/travel-hospitality-transportation/travel/)
+- [Transportation and Logistics](https://www.salesforce.com/travel-hospitality-transportation/transportation/)
+- [Hospitality](https://www.salesforce.com/travel-hospitality-transportation/hospitality/)
+- [See all stories](https://www.salesforce.com/customer-stories/)
+- [See all stories](https://www.salesforce.com/salesforce-on-salesforce-stories/)
+- [See all stories](https://www.salesforce.com/trailblazer-stories/)
+- [Trailblazer Series](https://www.salesforce.com/plus/series/trailblazer)
+- [Trailblazer 360 Blog](https://www.salesforce.com/blog/category/trailblazer/)
+- [Be a Trailblazer](https://www.salesforce.com/company/be-a-trailblazer/)
+- [Register now](https://www.salesforce.com/dreamforce/)
+- [Why Dreamforce](https://www.salesforce.com/dreamforce/why-dreamforce/)
+- [FAQs](https://www.salesforce.com/dreamforce/faq/)
+- [Learn more](https://www.salesforce.com/tdx/)
+- [Save the date for TDX 2027](https://www.salesforce.com/tdx/form-save-date-tdx27/)
+- [TDX 2026 Main Keynote](https://www.salesforce.com/plus/experience/tdx_2026/series/tdx_2026_highlights/episode/episode-s1e2)
+- [Best of TDX 2026](https://www.salesforce.com/plus/experience/tdx_2026/series/tdx_2026_highlights/episode/episode-s1e1)
+- [Register now](https://www.salesforce.com/connections/)
+- [Why Attend](https://www.salesforce.com/connections/why-attend/)
+- [FAQ](https://www.salesforce.com/connections/faq/)
+- [Learn more](https://www.salesforce.com/tableau-conference/)
+- [Tableau Conference Highlights](https://www.salesforce.com/plus/experience/tableau_conference_2026/series/tableau_conference_2026_highlights)
+- [Tableau Conference Keynote](https://www.salesforce.com/plus/experience/tableau_conference_2026/series/tableau_conference_2026_highlights/episode/episode-s1e5)
+- [Informatica World General Sessions](https://www.salesforce.com/plus/experience/informatica_world_2026/series/informatica_world_2026_general_sessions)
+- [Sessions On Demand](https://www.salesforce.com/plus/experience/informatica_world_2026)
+- [Learn more](https://www.salesforce.com/events/)
+- [Agentforce World Tour New York](https://www.salesforce.com/events/world-tour/nyc/)
+- [Agentforce World Tour Chicago](https://www.salesforce.com/events/world-tour/chicago/)
+- [Visit Salesforce+](https://www.salesforce.com/plus)
+- [Watch Dreamforce On-Demand](https://www.salesforce.com/plus/experience/dreamforce_2025)
+- [Agentforce and AI](https://www.salesforce.com/plus/explore/explore-agentforce-ai)
+- [Data, Analytics, and Integration](https://www.salesforce.com/plus/explore/data-analytics-integration)
+- [My List](https://www.salesforce.com/plus/mylist)
+- [Webinars](https://www.salesforce.com/events/webinars)
+- [Trailblazer Workforce Partner Programs](https://www.salesforce.com/workforce-development/)
+- [Salesforce Academic Programs](https://www.salesforce.com/workforce-development/higher-education/)
+- [Get started](https://www.salesforce.com/crm/free-trial/)
+- [Starter Suite](https://www.salesforce.com/form/signup/freetrial-salesforce-starter/)
+- [Developer Edition](https://www.salesforce.com/form/developer-signup/)
+- [Learn more about Salesforce](https://www.salesforce.com/products/what-is-salesforce/)
+- [What is CRM?](https://www.salesforce.com/crm/what-is-crm/)
+- [What is Customer 360?](https://www.salesforce.com/blog/what-exactly-is-salesforce-customer-360/)
+- [What are AI agents?](https://www.salesforce.com/agentforce/ai-agents/)
+- [What is Agentforce?](https://www.salesforce.com/agentforce/video/)
+- [Explore all blogs](https://www.salesforce.com/blog-hub/)
+- [The 360 Blog](https://www.salesforce.com/blog/)
+- [AI Research Blog](https://www.salesforce.com/blog/category/ai-research/)
+- [Salesblazer](https://www.salesforce.com/blog/sales/)
+- [Explore all resources](https://www.salesforce.com/resources/)
+- [Analyst Reports](https://www.salesforce.com/company/analyst-reports/)
+- [Newsletter](https://www.salesforce.com/form/other/role-based-newsletter/)
+- [Explore communities](https://www.salesforce.com/communities/)
+- [Explore Your Account features.](https://www.salesforce.com/your-account/)
+- [Digital Wallet](https://www.salesforce.com/agentforce/digital-wallet/)
+- [See our story](https://www.salesforce.com/company/our-story/)
+- [Leadership](https://www.salesforce.com/company/leadership/)
+- [Global Offices](https://www.salesforce.com/company/locations/)
+- [See what drives us](https://www.salesforce.com/company/our-values/)
+- [Innovation](https://www.salesforce.com/products/innovation/)
+- [Equality](https://www.salesforce.com/company/equality/)
+- [Sustainability](https://www.salesforce.com/company/sustainability/)
+- [Learn about our Impact initiatives](https://www.salesforce.com/company/impact/)
+- [Accessibility](https://www.salesforce.com/company/accessibility/tech-workplace/)
+- [Philanthropy](https://www.salesforce.com/company/philanthropy/)
+- [Ethical and Humane Use](https://www.salesforce.com/company/intentional-innovation/)
+- [Public Policy](https://www.salesforce.com/company/public-policy/)
+- [See all careers](https://www.salesforce.com/company/careers/)
+- [University Recruiting](https://www.salesforce.com/company/careers/university/)
+- [Visit the newsroom](https://www.salesforce.com/news/)
+- [Quarter in Review](https://www.salesforce.com/news/press-releases/2025/12/03/fy26-q3-earnings/)
+- [See legal](https://www.salesforce.com/company/legal/)
+- [For Customers](https://www.salesforce.com/company/legal/customer-agreements/)
+- [For Partners and Alliances](https://www.salesforce.com/company/legal/partner-agreements/)
+- [For Suppliers](https://www.salesforce.com/company/legal/supplier-agreements/)
+- [Terms of Service](https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/)
+- [TMCU Guidelines](https://www.salesforce.com/company/legal/tmcusageguidelines/)
+- [DMCA](https://www.salesforce.com/company/legal/dmca/)
+- [Privacy Info](https://www.salesforce.com/company/legal/privacy/)
+- [Compliance](https://www.salesforce.com/company/legal/compliance/)
+- [Product Accessibility Status](https://www.salesforce.com/company/legal/508_accessibility/)
+- [See our brands](https://www.salesforce.com/company/our-brands/)
+- [Contact Sales](https://www.salesforce.com/company/contact-us/)
+- [?](https://www.salesforce.com/products/free-trial/developer/)
+- [All rights reserved](https://www.salesforce.com/company/legal/intellectual/)
+- [Terms of Service](https://www.salesforce.com/company/legal/program-agreement/)
+- [API Terms of Service](https://www.salesforce.com/company/legal/sfdc-api-terms-of-service/)
+- [Privacy Information](https://www.salesforce.com/company/privacy/)
+- [Responsible Disclosure](https://www.salesforce.com/company/disclosure/)
+- [Your Privacy Choices](https://www.salesforce.com/form/other/privacy-request/)
+
+## www.salesforcestore.com
+
+- [Salesforce Swag Store](https://www.salesforcestore.com/)
+
+## www.tableau.com
+
+- [Tableau Stories](https://www.tableau.com/solutions/customers)
+- [Tableau](https://www.tableau.com/)
+- [Tableau](https://www.tableau.com/developer)
+- [What is Tableau?](https://www.tableau.com/why-tableau/what-is-tableau)
+
+## www.youtube.com
+
+- [?](https://www.youtube.com/c/SalesforceDevelopers)
+- [?](https://www.youtube.com/user/DeveloperForce)
 
