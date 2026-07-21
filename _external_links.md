@@ -16,14 +16,24 @@ Not crawled.
 - [Partner Apps](https://appexchange.salesforce.com/explore/business-needs)
 - [Implementation Partners](https://appexchange.salesforce.com/consulting)
 - [?](https://appexchange.salesforce.com/)
+- [Data 360 product collection](https://appexchange.salesforce.com/mktcollections/cloud-collections/customerdataplatform)
 
 ## architect.salesforce.com
 
 - [Architecture Center](https://architect.salesforce.com/)
 
+## azure.microsoft.com
+
+- [Microsoft Azure](https://azure.microsoft.com/)
+
 ## billing.salesforce.com
 
 - [Billing Portal](https://billing.salesforce.com/login)
+
+## cloud.google.com
+
+- [Google Cloud Storage](https://cloud.google.com/storage)
+- [Vertex AI](https://cloud.google.com/vertex-ai)
 
 ## cs.salesforce.com
 
@@ -39,7 +49,17 @@ Not crawled.
 
 ## developer.salesforce.com
 
-- [Connect REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/intro_working_with_chatter_connect.htm)
+- [Data Cloud Integration Guide](https://developer.salesforce.com/docs/data/data-cloud-int/guide/c360-a-data-cloud-integrations.html)
+- [Data Cloud Query Guide](https://developer.salesforce.com/docs/data/data-cloud-query-guide/guide/query-guide-get-started.html)
+- [Data Cloud SQL Reference](https://developer.salesforce.com/docs/data/data-cloud-query-guide/references/dc-sql-reference/data-cloud-sql-context.html)
+- [Data Model Gallery](https://developer.salesforce.com/docs/platform/data-models/guide/data-cloud-category.html)
+- [Salesforce Object Behavior](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_concepts_object_behavior.htm)
+- [Salesforce Data Cloud Objects](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_concepts_data_cloud_objects.htm)
+- [Data 360 DMO and Mapping Guide](https://developer.salesforce.com/docs/data/data-cloud-dmo-mapping/guide/c360dm-datamodelobjects.htm)
+- [Data Cloud Connect REST API Guide and Reference](https://developer.salesforce.com/docs/data/connectapi/overview)
+- [Testing ConnectApi Code](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_TestingApex.htm)
+- [Bring Your Own AI Models to Data Cloud](https://developer.salesforce.com/blogs/2023/08/bring-your-own-ai-models-to-salesforce-with-einstein-studio)
+- [Bring Your Google Vertex AI Models to Data Cloud](https://developer.salesforce.com/blogs/2023/11/bring-your-google-vertex-ai-models-to-data-cloud)
 - [Developer Events](https://developer.salesforce.com/events)
 - [Developer Blog](https://developer.salesforce.com/blogs)
 - [Developer Documentation](https://developer.salesforce.com/docs)
@@ -83,7 +103,74 @@ Not crawled.
 - [?](https://developer.salesforce.com/tools/tableau/embedding-playground)
 - [?](https://developer.salesforce.com/free-trials)
 - [Einstein](https://developer.salesforce.com/developer-centers/einstein-1-studio)
-- [Data 360 SQL Syntax](https://developer.salesforce.com/docs/data/data-cloud-query-guide/references/dc-sql-reference/syntax.html)
+- [Data 360 Query Profile Parameters](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_cdp_query.htm)
+- [SOQL and SOSL Reference](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/)
+- [Why Switch to Second-Generation Managed Packaging?](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/why_switch_2GP.htm)
+- [Sign up for a Developer Edition org](https://developer.salesforce.com/signup)
+- [Request a Salesforce Partner Business Org](https://developer.salesforce.com/docs/atlas.en-us.packagingGuide.meta/packagingGuide/appexchange_partner_request_pbo.htm)
+- [Select and Enable a Dev Hub](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_setup_enable_devhub.htm)
+- [Enable Dev Hub and Second-Generation Managed Packaging](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_pkg_enable_devhub.htm)
+- [Create and Register Your Namespace for Second-Generation Managed Packages](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev_dev2gp_create_namespace.htm)
+- [Link a Namespace to a Dev Hub Org](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_reg_namespace.htm)
+- [Install Salesforce Extensions Visual Studio Code](https://developer.salesforce.com/tools/vscode/en/vscode-desktop/install)
+- [Install Salesforce CLI](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)
+- [Create a Salesforce DX Project](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_create_new.htm)
+- [Create Scratch Orgs](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_scratch_orgs_create.htm)
+- [Data 360 Extensibility Readiness Matrix](https://developer.salesforce.com/docs/data/data-cloud-ref/guide/c360a-api-isv-readiness-data.htm)
+- [Retrieve Source From the Scratch Org to Your Project](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_pull_md_from_scratch_org.htm)
+- [project deploy start](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- [package create](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package_commands_unified.htm)
+- [Release a Second-Generation Managed Package](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev_dev2gp_create_pkg_ver_promote.htm)
+- [Second-Generation Managed Packages](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev_dev2gp.htm)
+- [Packages and Data Kits](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/packages-data-kits.html)
+- [Model Data in Data Cloud](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360dm_model_data.htm)
+- [Data 360 Reference Guide](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_intro_cdpapis.htm)
+- [First-Generation Managed Packaging Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.pkg1_dev.meta/pkg1_dev/sharing_apps.htm)
+- [ISVforce Guide](https://developer.salesforce.com/docs/atlas.en-us.packagingGuide.meta/packagingGuide/packaging_intro.htm)
+- [Create and Register Your Namespace](https://developer.salesforce.com/docs/atlas.en-us.252.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_unlocked_pkg_create_namespace.htm)
+- [Data 360 Extensibility Readiness Matrix](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_isv_readiness_data.htm)
+- [Data Cloud Resources](https://developer.salesforce.com/docs/platform/connectapi/references/about-sample-api/about-connect-api.html)
+- [Query Data using Query API](https://developer.salesforce.com/docs/data/data-cloud-query-guide/references/data-cloud-query-api-reference/c360a-api-queryservices-overview.html)
+- [Query Customer Profile Information with Profile API](https://developer.salesforce.com/docs/data/data-cloud-query-guide/references/data-cloud-query-api-reference/c360a-api-profile-call-overview.html)
+- [Load Data into Data 360](https://developer.salesforce.com/docs/data/data-cloud-int/guide/c360-a-ingestion-api.html)
+- [Amazon S3 Connector](https://developer.salesforce.com/docs/data/data-cloud-int/guide/c360-a-awss3-connector.html)
+- [Create Amazon S3 Data Stream in Data 360](https://developer.salesforce.com/docs/data/data-cloud-int/guide/c360-a-create-awss3-data-stream.html)
+- [Amazon S3 Bucket Policies and Permissions](https://developer.salesforce.com/docs/data/data-cloud-int/guide/c360-a-awss3-bucket-policies.html)
+- [Capture Web Interactions](https://developer.salesforce.com/docs/data/data-cloud-int/guide/c360-a-admin-web-sdk-setup.html)
+- [Integrate Your Mobile Applications](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk.htm)
+- [Data Cloud Resources](https://developer.salesforce.com/docs/data/connectapi/references/about-sample-api/about-connect-api.html)
+- [ConnectApi.CdpQuery Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- [ConnectApi.CdpCalculatedInsight Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpCalculatedInsight_static_methods.htm)
+- [ConnectApi.CdpIdentityResolution Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpIdentityResolution_static_methods.htm)
+- [ConnectApi.CdpSegment Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpSegment_static_methods.htm)
+- [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.246.0.apexcode.meta/apexcode/apex_dev_guide.htm)
+- [Query Services Status Codes](https://developer.salesforce.com/docs/data/data-cloud-query-guide/references/data-cloud-query-api-reference/c360a-api-queryservices-statuscodes.html)
+- [Query Source Record IDs](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_universal_id_lookup.htm)
+- [Query Calculated Insights](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_ci_call_overview.htm)
+- [Query Customer Profile Information with Profile API](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_profile_call_overview.htm)
+- [Retrieve Metadata](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_metadata_api.htm)
+- [Getting Started](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_getting_started_with_cdp.htm)
+- [Data 360 Metadata Types](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_data_cloud_types.htm)
+- [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_intro.htm)
+- [Metadata Coverage Report](https://developer.salesforce.com/docs/metadata-coverage/)
+- [REST API Developer Guide: Use the Consent API with Data 360](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_consent_cdp_params.htm)
+- [Webhook Data Action Targets in Data 360](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_webhook_data_action_targets_in_customer_data_platform.htm)
+- [Unleashing the Power of Data Actions Using a Webhook as a Target](https://developer.salesforce.com/blogs/2024/01/unleashing-the-power-of-data-actions-using-a-webhook-as-a-target)
+- [API Total Usage](https://developer.salesforce.com/docs/atlas.en-us.254.0.object_reference.meta/object_reference/sforce_api_objects_eventlogfile_apitotalusage.htm)
+- [Metadata Types](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_types_list.htm)
+- [Deploy Data Kit Components](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_actions_custom_deploy_datakit.htm)
+- [Create Project](https://developer.salesforce.com/docs/platform/sfvscode-extensions/guide/create-project.html)
+- [Authorize your Production Org](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_prod_org.htm)
+- [get data kit manifest](https://developer.salesforce.com/docs/data/connectapi/references/spec)
+- [Activation Platform](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/packaging_packageable_components.htm)
+
+## docs.aws.amazon.com
+
+- [AWS Documentation](https://docs.aws.amazon.com/)
+
+## docs.mulesoft.com
+
+- [Data Cloud Connector](https://docs.mulesoft.com/salesforce-data-cloud-connector/1.0/)
 
 ## elements.heroku.com
 
@@ -95,9 +182,10 @@ Not crawled.
 
 ## help.salesforce.com
 
+- [Data 360 Billable Usage Types](https://help.salesforce.com/s/articleView)
 - [?](https://help.salesforce.com/)
 - [Ask Agentforce on Salesforce Help](https://help.salesforce.com/s/)
-- [?](https://help.salesforce.com/s/articleView)
+- [Data Cloud Online Help](https://help.salesforce.com/articleView)
 
 ## ideas.salesforce.com
 
@@ -119,6 +207,10 @@ Not crawled.
 ## login.salesforce.com
 
 - [Salesforce Login](https://login.salesforce.com/)
+
+## marketplace.visualstudio.com
+
+- [Salesforce Extension Pack (Expanded)](https://marketplace.visualstudio.com/items)
 
 ## mc.exacttarget.com
 
@@ -144,23 +236,35 @@ Not crawled.
 
 - [Sessions](https://reg.salesforce.com/flow/plus/df26/sessioncatalog/page/catalog)
 
+## resources.docs.salesforce.com
+
+- [Data Cloud Implementation Overview Guide](https://resources.docs.salesforce.com/rel1/doc/en-us/static/pdf/DataCloud_Overview.pdf)
+
 ## salesforce.quip.com
 
 - [Quip](https://salesforce.quip.com/dev)
 
 ## salesforce.vidyard.com
 
-- [Data 360 Connect APIs and Postman Quick Start Video](https://salesforce.vidyard.com/watch/cTet8JYsu9zd6QsqxFkkwN)
+- [Data Cloud Connect APIs and Postman Quick Start Video](https://salesforce.vidyard.com/watch/cTet8JYsu9zd6QsqxFkkwN)
 
 ## salesforceventures.com
 
 - [Salesforce Ventures](https://salesforceventures.com/)
+
+## sfdc.co
+
+- [Trailhead: Data 360 and the Ethical Use of Data](https://sfdc.co/C360AData)
 
 ## slack.com
 
 - [Slack Solutions](https://slack.com/marketplace)
 - [Slack Stories](https://slack.com/customer-stories)
 - [Slack](https://slack.com/)
+
+## test.salesforce.com
+
+- [https://test.salesforce.com](https://test.salesforce.com/)
 
 ## trailblazer.me
 
@@ -183,9 +287,15 @@ Not crawled.
 - [?](https://trailhead.salesforce.com/en/career-path/developer/)
 - [?](https://trailhead.salesforce.com/credentials/developeroverview)
 - [?](https://trailhead.salesforce.com/trailblazer-community/groups/0F93A000000DJbJSAW)
-- [Create a Data Stream in Data 360 Trailhead](https://trailhead.salesforce.com/content/learn/projects/create-a-data-stream-in-data-cloud)
-- [Quick Start: Connect Postman to Salesforce Trailhead](https://trailhead.salesforce.com/content/learn/projects/quick-start-connect-postman-to-salesforce)
-- [Postman API Client Trailhead](https://trailhead.salesforce.com/content/learn/modules/postman-api-client)
+- [Trailhead: Quick Start: Connect Postman to Salesforce](https://trailhead.salesforce.com/content/learn/projects/quick-start-connect-postman-to-salesforce)
+- [Trailhead: Customer 360 Data Model for Data Cloud](https://trailhead.salesforce.com/content/learn/modules/customer-360-data-model-for-customer-data-platform)
+- [Trailhead: Data Cloud Insights](https://trailhead.salesforce.com/content/learn/modules/customer-data-platform-insights)
+- [Trailhead: Segmentation and Activation](https://trailhead.salesforce.com/content/learn/modules/customer-360-audiences-segmentation)
+- [Trail: Explore Data Cloud](https://trailhead.salesforce.com/content/learn/trails/explore-customer-360-audiences)
+- [Build Apps as an AppExchange Partner](https://trailhead.salesforce.com/content/learn/trails/isv_developer_beginner)
+- [Building Data Cloud Activation Platform Apps for ISVs](https://trailhead.salesforce.com/users/isv-platform-experts/trailmixes/building-activation-platform-apps-for-isvs)
+- [Packaging and Data Kits in Data Cloud](https://trailhead.salesforce.com/content/learn/modules/packaging-and-data-kits-in-salesforce-cdp)
+- [Trailhead: Learn Privacy and Data Protection Law](https://trailhead.salesforce.com/en/content/learn/trails/learn-privacy-and-data-protection-law)
 
 ## trailheadacademy.salesforce.com
 
@@ -233,9 +343,10 @@ Not crawled.
 
 ## www.postman.com
 
-- [Data 360 Connect REST API Postman collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-fa94cb66-3cb1-41e1-ad4b-7c0ec34bb430)
+- [Postman collection](https://www.postman.com/salesforce-developers/salesforce-developers/collection/vkln4gx/salesforce-data-cloud-apis)
 - [Data 360 Connect API Postman Collection](https://www.postman.com/salesforce-developers/salesforce-developers/collection/wgh5wpn/salesforce-data-cloud-connect-apis)
-- [Postman desktop app](https://www.postman.com/downloads/)
+- [Salesforce Data Cloud Connect APIs](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-fa94cb66-3cb1-41e1-ad4b-7c0ec34bb430)
+- [Direct APIs](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/folder/14448118-7e0dca4e-ecc8-4f55-bf5b-e6c773408751)
 
 ## www.salesforce.com
 
