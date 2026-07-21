@@ -25,17 +25,9 @@ Not crawled.
 
 - [Billing Portal](https://billing.salesforce.com/login)
 
-## central.sonatype.com
-
-- [https://central.sonatype.com/artifact/com.salesforce.datacloud/jdbc](https://central.sonatype.com/artifact/com.salesforce.datacloud/jdbc)
-
 ## cs.salesforce.com
 
 - [Customer Success Events](https://cs.salesforce.com/)
-
-## dbeaver.io
-
-- [https://dbeaver.io/download](https://dbeaver.io/download)
 
 ## devcenter.heroku.com
 
@@ -47,9 +39,7 @@ Not crawled.
 
 ## developer.salesforce.com
 
-- [Metadata API](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_metadata_api.htm)
-- [Data 360 Quick Start](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/dc-quick-start.html)
-- [Data Cloud Developer Guide](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/get-started.html)
+- [Connect REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/intro_working_with_chatter_connect.htm)
 - [Developer Events](https://developer.salesforce.com/events)
 - [Developer Blog](https://developer.salesforce.com/blogs)
 - [Developer Documentation](https://developer.salesforce.com/docs)
@@ -93,21 +83,7 @@ Not crawled.
 - [?](https://developer.salesforce.com/tools/tableau/embedding-playground)
 - [?](https://developer.salesforce.com/free-trials)
 - [Einstein](https://developer.salesforce.com/developer-centers/einstein-1-studio)
-- [Data Cloud Connect REST API](https://developer.salesforce.com/docs/platform/connectapi/references/spec)
-- [Custom App Development](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/custom-app-dev.html)
-- [Data Cloud Python Connector](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_python_connector.htm)
-- [Salesforce Developers Blog: Boost Data 360 Integrations with the New Query Connect API](https://developer.salesforce.com/blogs/2025/08/boost-data-cloud-integrations-with-the-new-query-connect-api)
-- [sfsqlquery Namespace](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_namespace_sfsqlquery.htm)
-- [Getting Started with Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_get_started.htm)
-- [ConnectApi.CdpQuery Methods](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
-- [Model Data in Data 360](https://developer.salesforce.com/docs/data/data-cloud-dmo-mapping/guide/c360dm-model-data.html)
-- [SalesOrder DMO](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360dm_sales_order_dmo.htm)
-- [Data 360 in Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/DataCloudInApex.htm)
-- [Mock SOQL Tests for Data 360 Data Model Objects](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/MockSOQLTestsForDMOs.htm)
-- [Salesforce Object Query Language (SOQL)](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
-- [SOQL and SOSL Reference: SOQL Object Limits and Limitations](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_limits.htm)
-- [Apex Developer Guide: SOQL and SOSL Queries](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL.htm)
-- [Salesforce Extensions for Visual Studio Code: SOQL Builder](https://developer.salesforce.com/docs/platform/sfvscode-extensions/guide/soql-builder.html)
+- [Data 360 SQL Syntax](https://developer.salesforce.com/docs/data/data-cloud-query-guide/references/dc-sql-reference/syntax.html)
 
 ## elements.heroku.com
 
@@ -117,16 +93,11 @@ Not crawled.
 
 - [?](https://exchange.tableau.com/)
 
-## github.com
-
-- [GitHub examples](https://github.com/forcedotcom)
-- [Data 360 JDBC](https://github.com/forcedotcom/datacloud-jdbc)
-
 ## help.salesforce.com
 
-- [Data Explorer](https://help.salesforce.com/s/articleView)
 - [?](https://help.salesforce.com/)
 - [Ask Agentforce on Salesforce Help](https://help.salesforce.com/s/)
+- [?](https://help.salesforce.com/s/articleView)
 
 ## ideas.salesforce.com
 
@@ -165,10 +136,6 @@ Not crawled.
 
 - [?](https://onetrust.com/poweredbyonetrust)
 
-## org62.my.salesforce.com
-
-- [Power BI Desktop Connector](https://org62.my.salesforce.com/sfc/p/000000000062/a/ed000001y3yX/HEy0sQdVoUZFvQZ_AXPg30hDoCvQeZTXInM7erQ1GlY)
-
 ## partners.salesforce.com
 
 - [Partner Community](https://partners.salesforce.com/)
@@ -180,6 +147,10 @@ Not crawled.
 ## salesforce.quip.com
 
 - [Quip](https://salesforce.quip.com/dev)
+
+## salesforce.vidyard.com
+
+- [Data 360 Connect APIs and Postman Quick Start Video](https://salesforce.vidyard.com/watch/cTet8JYsu9zd6QsqxFkkwN)
 
 ## salesforceventures.com
 
@@ -212,9 +183,9 @@ Not crawled.
 - [?](https://trailhead.salesforce.com/en/career-path/developer/)
 - [?](https://trailhead.salesforce.com/credentials/developeroverview)
 - [?](https://trailhead.salesforce.com/trailblazer-community/groups/0F93A000000DJbJSAW)
-- [Salesforce Developer Community](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kOWvSAM)
-- [Trailhead modules](https://trailhead.salesforce.com/content/learn/trails/data-cloud)
-- [SOQL for Admins](https://trailhead.salesforce.com/content/learn/modules/soql-for-admins)
+- [Create a Data Stream in Data 360 Trailhead](https://trailhead.salesforce.com/content/learn/projects/create-a-data-stream-in-data-cloud)
+- [Quick Start: Connect Postman to Salesforce Trailhead](https://trailhead.salesforce.com/content/learn/projects/quick-start-connect-postman-to-salesforce)
+- [Postman API Client Trailhead](https://trailhead.salesforce.com/content/learn/modules/postman-api-client)
 
 ## trailheadacademy.salesforce.com
 
@@ -259,6 +230,12 @@ Not crawled.
 
 - [MuleSoft Stories](https://www.mulesoft.com/case-studies)
 - [MuleSoft](https://www.mulesoft.com/)
+
+## www.postman.com
+
+- [Data 360 Connect REST API Postman collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-fa94cb66-3cb1-41e1-ad4b-7c0ec34bb430)
+- [Data 360 Connect API Postman Collection](https://www.postman.com/salesforce-developers/salesforce-developers/collection/wgh5wpn/salesforce-data-cloud-connect-apis)
+- [Postman desktop app](https://www.postman.com/downloads/)
 
 ## www.salesforce.com
 
@@ -568,7 +545,6 @@ Not crawled.
 - [Tableau Stories](https://www.tableau.com/solutions/customers)
 - [Tableau](https://www.tableau.com/)
 - [Tableau](https://www.tableau.com/developer)
-- [What is Tableau?](https://www.tableau.com/why-tableau/what-is-tableau)
 
 ## www.youtube.com
 
